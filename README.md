@@ -73,3 +73,15 @@ Understanding customer purchasing behavior is essential for businesses seeking t
 ---
 
 ## 4️⃣ Repository Structure
+
+
+```
+project-folder/
+├── data/
+│   └── Bike buyers data set.xlsx
+│
+├── visuals/
+│   └── bike buyers.npg.jpeg
+│
+└── README.md
+```
